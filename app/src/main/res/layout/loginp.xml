@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <View
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/loginpag"
+        android:layout_alignParentTop="false" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#34495E"
+        android:textSize="24sp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/weL_nam"
+        android:gravity="center_horizontal"
+        android:id="@+id/txt_success_name"
+        android:layout_marginTop="258dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="zunera@abc.com"
+        android:textColor="#34495E"
+        android:textSize="18sp"
+        android:gravity="center_horizontal"
+        android:id="@+id/txt_success_email"
+        android:layout_below="@+id/txt_success_name"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/quiz_btn"
+        android:id="@+id/btn_next"
+        android:textColor="#34495E"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+
+        android:layout_below="@+id/txt_success_email"
+
+        android:layout_alignRight="@+id/txt_success_name"
+        android:layout_alignEnd="@+id/txt_success_name"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+
+        android:textColor="#34495E"
+        android:textSize="14sp"
+        android:gravity="center_horizontal"
+        android:id="@+id/textView5"
+        android:layout_alignBottom="@+id/txt_success_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="49dp" />
+</RelativeLayout>
+

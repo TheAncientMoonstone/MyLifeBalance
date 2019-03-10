@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Welcome_text">Login</string>
+    <string name="TO1">TO</string>
+    <string name="Acc">Your Account</string>
+    <string name="en_language">English</string>
+    <string name="ar_language">عربى</string>
+    <string name="hi_language">हिन्दी</string>
+    <string name="email">अपने उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="Pass">अपना पासवर्ड डालें</string>
+    <string name="password">अपना पासवर्ड डालें</string>
+    <string name="signup">साइन अप करें</string>
+    <string name="signnew">क्या आप नए हैं.सुनिए साइन अप करें</string>
+    <string name="signne">्या आप नए हैं.सुनिए साइन अप करें</string>
+
+    <string name="select_quiz">चयन क्विज</string>
+    <string name="quiz_instruction">प्रश्नोत्तरी निर्देश</string>
+    <string name="your_best_score">तुम्हारा सबसे अच्छा अंक</string>
+    <string name="quiz_user_score_table">्विज टॉप स्कॉर्स</string>
+    <string name="total_best_score">93%</string>
+    <string name="quiz_category">्रश्नोत्तरी श्रेणी</string>
+    <string name="sports">Sport Category</string>
+    <string name="question_title">प्रश्न</string>
+    <string name="question">What is the highest mountain in the world right now?</string>
+    <string name="everest">Mount Everest</string>
+    <string name="next_button">NEXT QUESTION</string>
+    <string name="pass">उत्तीर्ण करना</string>
+    <string name="fail">असफल</string>
+    <string name="quiz_result">्रश्नोत्तरी परिणाम</string>
+    <string name="retake_quiz">िर से लेना प्रश्नोत्तरी</string>
+    <string name="view_result">परिणाम देखें</string>
+    <string name="question_num">Question 12</string>
+    <string name="your_answer">Your answer</string>
+    <string name="correct_answer">Correct answer</string>
+    <string name="quiz_result_analysis">प्रश्नोत्तरी परिणाम विश्लेषण</string>
+    <string name="no_quiz_in_category">There is no quiz in this category. Add a new quiz</string>
+    <string name="logout">साइन आउट</string>
+    <string name="sign">साइन इन करें</string>
+    <string name="weL_nam">स्वागत हे,Zunera</string>
+    <string name="Emails">zunera_hotmail.com</string>
+    <string name="quiz_btn">प्रश्नोत्तरी प्रारंभ करें</string>
+    <string name="Reg">खाता बनाएं</string>
+    <string name="Msgg">रजिस्टर बटन पर क्लिक करने के बाद आपको लॉगिन स्क्रीन पर पुनर्निर्देशित किया जाएगा</string>
+    <string name="Name">अपना पूरा नाम लिखे</string>
+    <string name="Email">अपना ईमेल दर्ज करें</string>
+    <string name="Password">अपना पासवर्ड डालें</string>
+    <string name="Mobile">अपना मोबाइल नंबर दर्ज करें</string>
+    <string name="signupreg">रजिस्टर</string>
+</resources>

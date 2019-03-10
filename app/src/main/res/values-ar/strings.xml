@@ -1,0 +1,49 @@
+<resources>
+<string name="app_name">
+    My Life Balance </string>
+<string name="quiz_slogan"> Work  Balance Life
+</string>
+    <string name="Welcome_text">أهلا بك</string>
+    <string name="TO1">إلى</string>
+    <string name="Acc">الحساب الخاص بك</string>
+
+    <string name="email">أدخل اسم المستخدم</string>
+    <string name="Pass">ادخل رقمك السري</string>
+    <string name="password">ادخل رقمك السري</string>
+    <string name="signup">سجل</string>
+    <string name="signne">هل أنت جديد. اشترك الآن</string>
+
+    <string name="select_quiz">سيليكت كويز</string>
+<string name="quiz_instruction">كويز إنستروكشيون</string>
+<string name="your_best_score">أفضل درجاتك</string>
+<string name="quiz_user_score_table">كويز توب سكوريرز</string>
+<string name="total_best_score">93%</string>
+<string name="quiz_category">فئة مسابقة</string>
+<string name="sports">Sport Category</string>
+<string name="question_title">سؤال</string>
+<string name="question">What is the highest mountain in the world right now?</string>
+<string name="everest">Mount Everest</string>
+<string name="next_button">NEXT QUESTION</string>
+<string name="pass">البشري</string>
+<string name="fail">فشل</string>
+<string name="quiz_result">نتيجة الاختبار</string>
+<string name="retake_quiz">إعادة الاختبار مسابقة</string>
+<string name="view_result">عرض النتيجة</string>
+<string name="question_num">Question 12</string>
+<string name="your_answer">Your answer</string>
+<string name="correct_answer">Correct answer</string>
+<string name="quiz_result_analysis">تحليل نتائج الاختبار</string>
+    <string name="weL_nam">أهلا بك,Zunera</string>
+    <string name="Emails">zunera_hotmail.com</string>
+    <string name="quiz_btn">بدء الاختبار</string>
+<string name="no_quiz_in_category">There is no quiz in this category. Add a new quiz</string>
+    <string name="logout">خروج</string>
+    <string name="Reg">إصنع حساب</string>
+    <string name="Msgg">بعد النقر على زر التسجيل. سيتم توجيهك إلى شاشة تسجيل الدخول</string>
+    <string name="Name">أدخل اسمك الكامل</string>
+    <string name="Email">أدخل بريدك الإلكتروني</string>
+    <string name="Password">ادخل رقمك السري</string>
+    <string name="Mobile">أدخل رقم هاتفك الجوال</string>
+    <string name="sign">تسجيل الدخول</string>
+    <string name="signupreg">تسجيل</string>
+    </resources>
